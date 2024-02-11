@@ -17,11 +17,11 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 ### Programming Languages
 [![C++](https://img.shields.io/badge/C++-%23202020.svg?style=for-the-badge&logo=c%2B%2B)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) [![Java](https://img.shields.io/badge/Java-%23202020.svg?style=for-the-badge&logo=java)](https://www.oracle.com/java/) [![Python](https://img.shields.io/badge/Python-%23202020.svg?style=for-the-badge&logo=python)](https://www.python.org/) 
 ### Database & Frameworks
-[![MySQL](https://img.shields.io/badge/MySQL-%23202020.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/) [![Flask](https://img.shields.io/badge/Flask-%23202020.svg?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/)
 [![MySQL](https://img.shields.io/badge/MySQL-%23202020.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/) [![Flask](https://img.shields.io/badge/Flask-%23202020.svg?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/) [![Streamlit](https://img.shields.io/badge/Streamlit-%23202020.svg?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 
 ### Operating Systems & Cloud
 [![Linux](https://img.shields.io/badge/Linux-%23202020.svg?style=for-the-badge&logo=linux)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-%23202020.svg?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows) [![AWS](https://img.shields.io/badge/AWS-%23202020.svg?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23202020.svg?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
+
 ## Connect with Me
 Let's connect! Find me on:
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/harianshsingh)
@@ -30,6 +30,7 @@ Let's connect! Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hariansh-singh)
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232C3E50.svg?style=for-the-badge&logo=hashnode)](https://hashnode.com/@harianshsingh)
 [![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)](https://www.x.com/SinghHariansh)
+
 **My GitHub Stats**
 
-[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Vidhi1290)
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Vidhi1290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/hariansh-singh)
