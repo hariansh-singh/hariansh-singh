@@ -13,9 +13,9 @@ Let's connect! Find me on:
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/harianshsingh)
 [![GitHub](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github)](https://github.com/hariansh-singh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23202020.svg?style=for-the-badge&logo=instagram)](http://www.instagram.com/hariansh.singh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hariansh-singh)
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232C3E50.svg?style=for-the-badge&logo=hashnode)](https://hashnode.com/@harianshsingh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23202020.svg?style=for-the-badge&logo=instagram)](http://www.instagram.com/hariansh.singh)
 [![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)](https://www.x.com/SinghHariansh)
 
 ## Skills
