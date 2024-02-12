@@ -4,7 +4,17 @@ I'm Hariansh Singh, a Data Scientist based in India. Welcome to my GitHub space,
 Always up for collaboration 🤝, tech discussions 💬, and seeking new challenges 💯. Let's join forces and build a better future together! 🤝
 - 🌍  Based in Punjab, India
 - ✉️  Reach out to me at [harianshsingh13@gmail.com](mailto:harianshsingh13@gmail.com)
-- 🤝  Open to collaborations. 
+- 🤝  Open to collaborations.
+## Connect with Me
+Let's connect! Find me on:
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/harianshsingh)
+[![GitHub](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github)](https://github.com/hariansh-singh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23202020.svg?style=for-the-badge&logo=instagram)](http://www.instagram.com/hariansh.singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hariansh-singh)
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232C3E50.svg?style=for-the-badge&logo=hashnode)](https://hashnode.com/@harianshsingh)
+[![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)](https://www.x.com/SinghHariansh)
+
 ## Skills
 ### Computer Vision
 [![OpenCV](https://img.shields.io/badge/OpenCV-%23202020.svg?style=for-the-badge&logo=opencv)](https://opencv.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/) [![scikit-image](https://img.shields.io/badge/scikit-image-%23202020.svg?style=for-the-badge)](https://scikit-image.org/)
@@ -21,16 +31,6 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 
 ### Operating Systems & Cloud
 [![Linux](https://img.shields.io/badge/Linux-%23202020.svg?style=for-the-badge&logo=linux)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-%23202020.svg?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows) [![AWS](https://img.shields.io/badge/AWS-%23202020.svg?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23202020.svg?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
-
-## Connect with Me
-Let's connect! Find me on:
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/harianshsingh)
-[![GitHub](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github)](https://github.com/hariansh-singh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23202020.svg?style=for-the-badge&logo=instagram)](http://www.instagram.com/hariansh.singh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hariansh-singh)
-[![Hashnode](https://img.shields.io/badge/Hashnode-%232C3E50.svg?style=for-the-badge&logo=hashnode)](https://hashnode.com/@harianshsingh)
-[![Twitter](https://img.shields.io/badge/Twitter-%23202020.svg?style=for-the-badge&logo=twitter)](https://www.x.com/SinghHariansh)
 
 **My GitHub Stats**
 
