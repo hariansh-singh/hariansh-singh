@@ -1,3 +1,6 @@
+<a href="https://github.com/">
+        <img src="https://komarev.com/ghpvc/?username=hariansh-singh" alt="hariansh-singh" />
+
 # Hi there! 👋
 I'm Hariansh Singh, a Data Scientist based in India. Welcome to my GitHub space, where I blend ideas and skills to make a meaningful impact in the tech world. 🚀
 ## About Me
